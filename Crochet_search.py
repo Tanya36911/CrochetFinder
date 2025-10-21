@@ -16,7 +16,7 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-DATA_FILE = Path("/Users/tanyajustin/Documents/crochet_videos_with_colors.xlsx")
+DATA_FILE = Path("crochet_videos_with_colors.xlsx")
 
 # -----------------------------------
 # Helper Functions
